@@ -4,7 +4,7 @@ Preencha os dados abaixo para identificar a autoria do trabalho.
 
 - Nome: *\<Yago Gomes da Silva>*
 - Email: *\<yago.gomes.silva.100@ufrn.edu.br>*
-- Turma: *\<IMD0030 - T03>*
+- Turma: *\<T03>*
 
 # Questões Finalizadas
 
