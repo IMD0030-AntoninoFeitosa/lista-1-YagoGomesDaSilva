@@ -1,19 +1,31 @@
 #include "function.h"
 
-/*! 
- * Finds and returns a pair with the first instance of the smallest element
- * and the last instance of the largest element in an array.
- *
- * @param V This is the array-to-pointer decay representing an array.
- * @param n The array's size.
- *
- * @return A pair of indexes to the first smallest and last largest values.
- */
-
-std::pair<int,int> min_max( int V[], size_t n )
+std::pair<int, int> min_max(int V[], std::size_t n)
 {
-    // TODO: Adicione aqui sua solução.
+    int x = 0, aux_max = 0, aux_min = 0;
 
-    // TODO: Isso é apenas um STUB. Substitua com seu retorno correto.
-    return { -1, -1 };
+    std::pair<int, int> par;
+
+    par.first = V[0], par.second = V[0];
+
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+
+            if (V[i] < V[j]) {
+                aux_min = V[i];
+                if (aux_min < par.first) {
+                    par.first = aux_min;
+                }
+            }
+            else if (V[i] > V[j]) {
+                aux_max = V[i];
+                if (aux_max > par.second) {
+                    par.second = aux_max;
+                }
+            }
+
+        }
+    }
+
+    return par;
 }
