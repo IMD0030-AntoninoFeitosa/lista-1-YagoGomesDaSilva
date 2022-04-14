@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\inverter",
+    "\\inverter\\src"
   ],
+  "SelectedNode": "\\autor.md",
   "PreviewInSolutionExplorer": false
 }

@@ -8,11 +8,12 @@
 template <std::size_t SIZE>
 void reverse( std::array< std::string, SIZE > & arr )
 {
- 
+
     int final_i = arr.size() - 1;
 
-    for (int inicio_i =0 ; inicio_i < arr.size() / 2; inicio_i++) {
+    for (int inicio_i = 0; inicio_i < arr.size() / 2; inicio_i++) {
         std::swap(arr[inicio_i], arr[final_i]);
         final_i--;
     }
+
 }
