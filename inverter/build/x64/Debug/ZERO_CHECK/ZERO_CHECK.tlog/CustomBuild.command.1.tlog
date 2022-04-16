@@ -1,0 +1,10 @@
+^D:\GOD PROGRAMATION\BTI\SEMESTRE 3\LINGUAGEM DE PROGRAMAÇÃO 1\ATIVIDADESC++\LISTA-1-YAGOGOMESDASILVA\INVERTER\BUILD\CMAKEFILES\2874382C47AD3F7742284B4166FA7510\GENERATE.STAMP.RULE
+setlocal
+D:\Cmake\bin\cmake.exe "-SD:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/inverter" "-BD:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/inverter/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/inverter/build/Inverter.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

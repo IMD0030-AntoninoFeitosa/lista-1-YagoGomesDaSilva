@@ -1,0 +1,4 @@
+D:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/soma_vizinhos/build/CMakeFiles/program.dir
+D:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/soma_vizinhos/build/CMakeFiles/verify.dir
+D:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/soma_vizinhos/build/CMakeFiles/ALL_BUILD.dir
+D:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/soma_vizinhos/build/CMakeFiles/ZERO_CHECK.dir

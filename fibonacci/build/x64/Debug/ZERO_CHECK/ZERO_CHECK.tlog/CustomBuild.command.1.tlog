@@ -1,0 +1,10 @@
+^D:\GOD PROGRAMATION\BTI\SEMESTRE 3\LINGUAGEM DE PROGRAMAÇÃO 1\ATIVIDADESC++\LISTA-1-YAGOGOMESDASILVA\FIBONACCI\BUILD\CMAKEFILES\5E389DEAB515F08F5ABDE284834248B7\GENERATE.STAMP.RULE
+setlocal
+D:\Cmake\bin\cmake.exe "-SD:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/fibonacci" "-BD:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/fibonacci/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/fibonacci/build/FibBelowN.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

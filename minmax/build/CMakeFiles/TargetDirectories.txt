@@ -1,0 +1,5 @@
+D:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/minmax/build/CMakeFiles/func.dir
+D:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/minmax/build/CMakeFiles/all_tests.dir
+D:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/minmax/build/CMakeFiles/run_tests.dir
+D:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/minmax/build/CMakeFiles/ALL_BUILD.dir
+D:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/minmax/build/CMakeFiles/ZERO_CHECK.dir

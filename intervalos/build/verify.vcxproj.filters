@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\GOD Programation\BTI\Semestre 3\Linguagem de Programação 1\AtividadesC++\lista-1-YagoGomesDaSilva\intervalos\build\CMakeFiles\7575b7d3285920e3109e72d9b7846e48\verify.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GOD Programation\BTI\Semestre 3\Linguagem de Programação 1\AtividadesC++\lista-1-YagoGomesDaSilva\intervalos\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\GOD Programation\BTI\Semestre 3\Linguagem de Programação 1\AtividadesC++\lista-1-YagoGomesDaSilva\intervalos\build\CMakeFiles\verify" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6539D0F7-DF9C-377B-AF6F-18D0BAF84C90}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

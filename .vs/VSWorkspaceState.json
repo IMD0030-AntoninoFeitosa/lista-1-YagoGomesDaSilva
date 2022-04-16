@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\inverter",
-    "\\inverter\\src"
+    "\\ponto_em_retangulo_1",
+    "\\ponto_em_retangulo_1\\src"
   ],
-  "SelectedNode": "\\autor.md",
+  "SelectedNode": "\\ponto_em_retangulo_1\\src\\function.cpp",
   "PreviewInSolutionExplorer": false
 }

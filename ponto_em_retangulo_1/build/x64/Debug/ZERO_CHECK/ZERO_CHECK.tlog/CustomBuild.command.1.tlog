@@ -1,0 +1,10 @@
+^D:\GOD PROGRAMATION\BTI\SEMESTRE 3\LINGUAGEM DE PROGRAMAÇÃO 1\ATIVIDADESC++\LISTA-1-YAGOGOMESDASILVA\PONTO_EM_RETANGULO_1\BUILD\CMAKEFILES\5A9805F2D5209DB030A494343C55C1F2\GENERATE.STAMP.RULE
+setlocal
+D:\Cmake\bin\cmake.exe "-SD:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/ponto_em_retangulo_1" "-BD:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/ponto_em_retangulo_1/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/ponto_em_retangulo_1/build/Rectangle1.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

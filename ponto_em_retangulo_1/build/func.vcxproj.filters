@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\GOD Programation\BTI\Semestre 3\Linguagem de Programação 1\AtividadesC++\lista-1-YagoGomesDaSilva\ponto_em_retangulo_1\src\function.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\GOD Programation\BTI\Semestre 3\Linguagem de Programação 1\AtividadesC++\lista-1-YagoGomesDaSilva\ponto_em_retangulo_1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{348F2EC5-FFFA-368D-852A-E1F4574911A9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

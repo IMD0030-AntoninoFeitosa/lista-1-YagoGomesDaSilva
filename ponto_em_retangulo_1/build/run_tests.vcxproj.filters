@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\GOD Programation\BTI\Semestre 3\Linguagem de Programação 1\AtividadesC++\lista-1-YagoGomesDaSilva\ponto_em_retangulo_1\build\CMakeFiles\5a9805f2d5209db030a494343c55c1f2\run_tests.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GOD Programation\BTI\Semestre 3\Linguagem de Programação 1\AtividadesC++\lista-1-YagoGomesDaSilva\ponto_em_retangulo_1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\GOD Programation\BTI\Semestre 3\Linguagem de Programação 1\AtividadesC++\lista-1-YagoGomesDaSilva\ponto_em_retangulo_1\build\CMakeFiles\run_tests" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E7D72018-A490-3F08-9305-7E34C4CA3D32}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

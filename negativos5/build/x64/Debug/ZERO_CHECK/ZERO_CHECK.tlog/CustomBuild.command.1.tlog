@@ -1,0 +1,10 @@
+^D:\GOD PROGRAMATION\BTI\SEMESTRE 3\LINGUAGEM DE PROGRAMAÇÃO 1\ATIVIDADESC++\LISTA-1-YAGOGOMESDASILVA\NEGATIVOS5\BUILD\CMAKEFILES\D154F1EE325EFA5C225FC8B35F52F2FE\GENERATE.STAMP.RULE
+setlocal
+D:\Cmake\bin\cmake.exe "-SD:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/negativos5" "-BD:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/negativos5/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/GOD Programation/BTI/Semestre 3/Linguagem de Programação 1/AtividadesC++/lista-1-YagoGomesDaSilva/negativos5/build/Negativos5.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
