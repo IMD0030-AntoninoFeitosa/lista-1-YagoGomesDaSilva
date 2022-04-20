@@ -8,29 +8,27 @@ using std::cout;
 using std::cin;
 using std::endl;
 
-int main( void )
-{
+int main() {
 
     int m = 0, n = 0, x = 0, a = 0;
 
-    std::cin >> m;
-    std::cin >> n;
-
-    if (n == 0) {
-        std::cout << m << std::endl;
-    }
-    else if (n > 0) {
-        for (int i = 1; i <= n + 1; i++) {
-            a = m + (n - 1) * i;
+    while (std::cin >> std::ws >> m >> n) {
+        if (n == 0) {
+            std::cout << m << std::endl;
         }
-        std::cout << a;
-    }
-    else if (n < 0) {
-        for (int i = 0; i < abs(n); i++) {
-            x += m;
-            m--;
+        else if (n > 0) {
+            for (int i = 1; i <= n + 1; i++) {
+                a = m + (n - 1) * i;
+            }
+            std::cout << a << std::endl;
         }
-        std::cout << x;
+        else if (n < 0) {
+            for (int i = 0; i < abs(n); i++) {
+                x += m;
+                m--;
+            }
+            std::cout << x << std::endl;
+        }
     }
 
     return 0;

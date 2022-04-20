@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ponto_em_retangulo_1",
-    "\\ponto_em_retangulo_1\\src"
+    "\\intervalos\\src",
+    "\\ponto_em_retangulo_1\\src",
+    "\\ponto_em_retangulo_1\\tests",
+    "\\soma_vizinhos",
+    "\\soma_vizinhos\\src"
   ],
-  "SelectedNode": "\\ponto_em_retangulo_1\\src\\function.cpp",
+  "SelectedNode": "\\soma_vizinhos\\src\\main.cpp",
   "PreviewInSolutionExplorer": false
 }
